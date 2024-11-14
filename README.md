@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 **Mobile version**
 ![Mobile version](/solutions/screenshot-mobile.jpg)
-
+Org
 **Desktop version**
 ![Desktop version](/solutions/screenshot-desktop.jpg)
 
@@ -56,6 +56,7 @@ I wanna try and use the <picture> more often, as it's a really helpful resource 
 ### Useful resources
 
 - [The picture element | web.dev](https://web.dev/learn/design/picture-element) - This will help to tackle the two-different-images-with-two-different-orientations problem.
+- [Understanding and using rem units in CSS | Sitepoint](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/) - Useful to those who want to work with relavite units.
 
 ## Author
 
